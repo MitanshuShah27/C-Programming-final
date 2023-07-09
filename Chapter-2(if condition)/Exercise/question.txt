@@ -1,0 +1,5 @@
+Q1) If the cost price and the selling price of an item is input through the keyboard, write a program to determine whether the seller has made profit or not and also how much profit.
+
+Q2) Any integer is input through the keyboard. Write a program to find out it is odd or even.
+
+Q3) Find a absolute value of a number of a number entered through keyboard.
